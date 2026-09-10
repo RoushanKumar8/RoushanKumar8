@@ -74,11 +74,11 @@ A full-stack application for submitting and managing product data with image upl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoushanKumar8&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RoushanKumar8&show_icons=true&theme=tokyonight" alt="Roushan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=RoushanKumar8&theme=tokyonight" alt="Roushan's GitHub Streak" />
 </p>
 
 ---
