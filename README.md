@@ -1,5 +1,6 @@
 <h1>
-  <img src="./assets/waving-hand.gif" width="35px"> Hi, I'm Roushan Kumar
+  <img src="https://emojis.slackmojis.com/emojis/images/1471045834/472/wave.gif?1471045834" width="30"/>
+  Hi, I'm Roushan Kumar
 </h1>
 
 ### 💻 Information Technology Student | Full-Stack Developer | DSA Learner
