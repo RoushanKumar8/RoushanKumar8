@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Roushan Kumar
+# <img src="https://media.giphy.com/media/hvRJCLz2EnqRi/giphy.gif" width="35"> Hi, I'm Roushan Kumar
 
 ### 💻 Information Technology Student | Full-Stack Developer | DSA Learner
 
