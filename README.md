@@ -1,6 +1,5 @@
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514748/2425/meow_code.gif" width="30"/>
-  Hi, I'm Roushan Kumar
+  👋 Hi, I'm Roushan Kumar
 </h1>
 
 ### 💻 Information Technology Student | Full-Stack Developer | DSA Learner
