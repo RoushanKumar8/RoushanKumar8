@@ -100,8 +100,6 @@ A full-stack application for submitting and managing product data with image upl
 
 ---
 
-### 💬 Quote
-
-> "Trying to become better than yesterday."
-
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  <i>“Code it. Create it. Innovate it. With AI.”</i>
+</p>
