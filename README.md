@@ -1,6 +1,5 @@
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLz2EnqRi/giphy.gif" width="35px">
-  Hi, I'm Roushan Kumar
+  # <img src="./assets/waving-hand.gif" width="35px"> Hi, I'm Roushan Kumar
 </h1>
 
 ### 💻 Information Technology Student | Full-Stack Developer | DSA Learner
