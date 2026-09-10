@@ -10,15 +10,10 @@ Currently, I'm improving my skills in **Data Structures & Algorithms, React, Nod
 ## 🚀 About Me
 
 * 🎓 Information Technology Student
-* 💻 Interested in **Full-Stack Web Development**
-* 🤖 Interested in **Artificial Intelligence & AI-powered Applications**
-* 🧠 Currently learning **Data Structures & Algorithms**
-* ⚛️ Building projects with **React.js**
-* 🐍 Learning and working with **Python**
-* 🟢 Working with **Node.js & Express.js**
-* 🍃 Learning **MongoDB & Mongoose**
+* 💻 Full-Stack Developer | 🤖 AI Enthusiast
+* 🧠 Learning **DSA & Python**
+* ⚛️ React.js • Node.js • MongoDB
 * 🎯 Preparing for **Software Development Placements**
-* 📚 Always learning something new
 
 ---
 
