@@ -2,8 +2,8 @@
 
 ### 💻 Information Technology Student | Full-Stack Developer | DSA Learner
 
-I'm an **Information Technology student** passionate about **web development, problem solving, and building real-world applications**.
-Currently, I'm improving my skills in **Data Structures & Algorithms, React, Node.js, and backend development**.
+I'm an **Information Technology student** passionate about **web development, problem solving, AI, and building real-world applications**.
+Currently, I'm improving my skills in **Data Structures & Algorithms, React, Node.js, Python, and backend development**.
 
 ---
 
@@ -11,11 +11,12 @@ Currently, I'm improving my skills in **Data Structures & Algorithms, React, Nod
 
 * 🎓 Information Technology Student
 * 💻 Interested in **Full-Stack Web Development**
+* 🤖 Interested in **Artificial Intelligence & AI-powered Applications**
 * 🧠 Currently learning **Data Structures & Algorithms**
 * ⚛️ Building projects with **React.js**
+* 🐍 Learning and working with **Python**
 * 🟢 Working with **Node.js & Express.js**
 * 🍃 Learning **MongoDB & Mongoose**
-* 🔐 Interested in **Cybersecurity & Web Security**
 * 🎯 Preparing for **Software Development Placements**
 * 📚 Always learning something new
 
@@ -27,6 +28,7 @@ Currently, I'm improving my skills in **Data Structures & Algorithms, React, Nod
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Frontend
@@ -51,11 +53,13 @@ Currently, I'm improving my skills in **Data Structures & Algorithms, React, Nod
 
 ## 📌 Featured Projects
 
-### 🛡️ Cyber Crime Complaint Platform
+### 🤖 The KDP Learning
 
-A web platform designed to help users submit complaints related to cybercrime.
+**The KDP Learning** is an **AI-based web application** designed to provide an intelligent and interactive learning experience.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+The application focuses on using **AI technology to make learning more personalized, interactive, and accessible**.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • AI
 
 ### 🛒 Full-Stack Product Application
 
@@ -89,9 +93,10 @@ A full-stack application for submitting and managing product data with image upl
 
 * 🔥 Become strong in **DSA**
 * 🚀 Build more **Full-Stack projects**
+* 🤖 Learn and build more **AI-powered applications**
 * 💼 Prepare for **Software Engineering Placements**
 * 🧑‍💻 Contribute to **Open Source**
-* 🔐 Learn more about **Cybersecurity**
+* 🐍 Improve my **Python skills**
 * 🗣️ Improve my **English Communication**
 
 ---
